@@ -1,4 +1,7 @@
 # DataProject
+
+----Google stocks analysis----
+
 mysql -u root --local-infile=1 -p
 show variables like "local_infile";
 create database Marketdata;
